@@ -1,0 +1,1 @@
+This repository contains a Mathematica notebook that calculates correlation functions at spatial infinity for both the vacuum state and non-trivial in & out states, as presented in the associated paper "Interacting Fields at Spatial Infinity" [ https://arxiv.org/abs/2405.20326 ] by Anupam A. H, P.V. Athira, Priyadarshi Paul & Suvrat Raju. 
